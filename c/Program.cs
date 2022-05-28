@@ -1,5 +1,7 @@
-﻿var nome = "eduardo";
+﻿string nome = "eduardo";
 Console.WriteLine(nome);
+
+int numero = 81;
 
 Console.WriteLine();
 
